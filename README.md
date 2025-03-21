@@ -12,7 +12,7 @@ Umi-OCR (v2 以上) 支持以插件的形式导入 OCR 引擎等组件，只需�
 
 - [如何开发插件？](demo_AbaOCR)
 
-## 如何安装插件
+## 如何安装插件good
 
 1. **在 [Releases](https://github.com/hiroi-sora/Umi-OCR_plugins/releases) 中下载插件压缩包。** 不要直接下载仓库的源代码！
 2. **在 [Releases](https://github.com/hiroi-sora/Umi-OCR_plugins/releases) 中下载插件压缩包。** 不要直接下载仓库的源代码！！
